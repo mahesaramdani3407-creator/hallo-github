@@ -2,7 +2,7 @@ None
 # Hello GitHub
 Halo! Ini adalah repository GitHub pertama saya.
 ## Tentang Saya
-- Nama: Nama Mahasiswa
+- Nama: mahesa ramdani
 - Program Studi: Infirmatika 3A
 - Nim: 250602025
 ## Tujuan
